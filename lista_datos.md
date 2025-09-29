@@ -51,3 +51,5 @@ Informe, Registros de socializacion, publicaciones, Acta de finalizacion, paz y 
 3.3 Publicacion cientifica, segun requisitos de la revista
 3.4 Investigador de contacto, en caso de dudas, correcciones o comentarios
 3.4.1 Contacto de investigador principal, informacion de la institucion o empresa 
+
+4. otras cosas
