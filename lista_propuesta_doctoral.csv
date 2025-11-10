@@ -1,0 +1,57 @@
+Lista de chequeo para la propuesta doctoral: Investigando la diversidad taxonomica y los gremios troficos de larvas de Chironomidae (Insecta: Diptera) en la cuenca del rio Magdalena integrando herramientas de inteligencia artificial
+
+1. Conformacion del equipo de investigacion: nombre, cargo, función
+Néstor Oviedo Machado, Estudiante, ejecución del proyecto
+Edwin Lopez, Orientador, Analisis estadisticos morfometria geometrica gremios troficos
+Fabio Martinez, Coorientador, area computacional entrenamiento de Imagelytics suite
+Jorge Garcia, Coorientador, area fotografica ciencia visual
+Galileu Dantas, Coorientador, taxonomia y ecologia de Chironomidae
+
+2. Propuesta de investigacion:
+Elaboracion del documento: marco teorico, Pregunta de investigacion, hipotesis, Objetivos, justificacion, Diseño y Metodologia, cronograma, presupuesto, resultados esperados, alcances del proyecto.
+Inscripcion del tema de investigacion (21 nov 2025)
+Entrega de propuesta en formato Escuela de Biologia (Agosto 2026)
+Aprovacion vicerrectoria de la UIS
+
+3. Soporte para el desarrollo del proyecto
+Manutencion del estudiante: Solicitud, aprovacion, renovacion semestral del credito condonable
+Financiacion del proyecto: recursos de la UIS
+Equipos e infraestructura requerida: Laboratorio de Hidrobiologia UIS, otros laboratorios asociados a las colecciones visitadas
+
+4. Gestion de la Informacion
+Creacion de carpetas en computadores personales y de las colecciones biologicas
+Creacion de repositorios en linea
+Se realizaran acuerdos de acceso y manejo de la informacion
+La informacion sera organizada en: documentos administrativos, articulos y referencias, fotos, documentos elaborados, bases de datos, resultados de analisis, graficas
+La informacion sera publica una vez realizadas las publicaciones correspondintes y terminado el proyecto
+
+5. Gestion del trabajo en colecciones biologicas
+Para cada coleccion contar con: datos de contacto del curador, carta de solicitud del material biologico, carta de aprovacion de la visita o prestamo del material biologico, verificacion de equipos necesarios para el caso de visitas
+Universidades o institutos donde se tiene previstas visita o prestamo de material: Universidad Industrial de Santander, Universidad del Tolima, Universidad Surcolombiana, Universidad de Caldas, Universidad del Magdalena, Universidad del Cauca, Universidad del Valle, Universidad de Antioquia, Instituto Alexander von Humboldt, Instituto Sinchi.
+
+6. Material biologico
+Seleccion de larvas en funcion de la subcuenca, estacion, genero y abundancias
+Para cada subcuenca se usaran entre 100 y 200 larvas por cada genero, tomandosen de forma equitativa de las diferentes estaciones
+Se espera para cada estacion de muestreo tener 2 larvas para fotografias de capsulas cefalicas y piezas bucales montadas en euparal, 3 larvas para capsulas cefalicas montadas en euparal, un numero variable de larvas para fotografia de capusla cefalica montadas en agua glicerina o alcohol. 
+Se atenderan las normas de laboratorio y disposicion de residuos (KOH, Alcohol) de cada coleccion biologica o de donde se realize el trabajo. 
+
+7. Identificacion y toma de fotografias y datos
+La identificacion se hara con observacion directa de la morfologia siguiendo diferentes claves taxonomicas.
+Para cada foto existira una "ficha de foto" que incluira: Genero, morfotipo, aumento, escala, tamaño, camara o celular, resolucion, tipo de archivo, subcuenca, estacion, metadatos de la coleccion, lote, fecha de colecta, fecha de fotografia
+Se realizada la estandarizacion de las fotografias de capsulas cefalicas, mentum, mandibulas, placas ventromentales y ligula (segun la subfamilia)
+
+8. Analisis 
+Diversidad taxonomica: diversidad conocida, diversidad esperada, distribucion geografica de los generos
+Morfometria geometrica y gremios troficos: establecimiento de landmarks, analisis procrustes, Analisis componentes principales, anovas
+Entrenamiento de Imagelytics suite: se clonaran los repositorios a-milosavljevic/aiaquami-training y settings.py disponibles en GitHub, definir red neuronal (EfficientNetB0–B3 o EfficientNetB2 u otra), transferencia de aprendizaje, aumentacion de datos, definicion de baches y ciclos, adaptar otros parámetros del entrenamiento, fase piloto con 10 generos cada uno con 50 fotos, fase extendida con todos los generos cada uno entre 100 y 200, el uso de las fotos sera 70% entrenamiento, 15% validacion y 15% prueba. 
+Evaluacion y validacion: curvas de entrenamiento, matrices de confucion, reportes con Grad-CAM y cálculos de precisión. Pruebas con fotos de cuencas del magadalena no usadas en el entrenamiento y de la amazonia, tomadas por otros investigadores.
+
+9. Divulgacion
+Cartilla de divulgacion cientifica para publico general
+Ponencias en congresos: una en nacional y otra en internacional
+Articulos cientificos: por lo menos 2 articulos publicados o sometidos
+Sustentacion: defensa de la investigacion
+
+10. Tramites de grado
+Entrega de documentos administraticos y academicos respectivos
+Condonacion del credito educativo 
